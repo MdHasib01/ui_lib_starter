@@ -23,6 +23,7 @@
           "parentlink": "buttons",
           "parentName": "Buttons"
         },
+
         {
           "componentName": "button-background-spotlight",
           "filesrc": "components/button/btn-bg-spotlight.tsx",
@@ -56,6 +57,13 @@
           "componentName": "creative-button-2",
           "filesrc": "components/button/creative-btn2.tsx",
           "iframeSrc": "live-components/creative-button-2",
+          "parentlink": "buttons",
+          "parentName": "Buttons"
+        },
+        {
+          "componentName": "creative-button-3",
+          "filesrc": "ui/animatedBtn.tsx",
+          "iframeSrc": "live-components/creative-button-3",
           "parentlink": "buttons",
           "parentName": "Buttons"
         }

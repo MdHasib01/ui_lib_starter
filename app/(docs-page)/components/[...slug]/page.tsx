@@ -38,12 +38,11 @@ export default async function DocPage({
 }) {
   const slug = params.slug?.join('/') || '';
   const doc = await getDocBySlug(slug);
-  // console.log(doc);
+  // console.log('doc', doc);
 
   if (!doc) {
     notFound();
   }
-
   const { default: Content } = doc.content;
 
   // console.log(doc.toc);
