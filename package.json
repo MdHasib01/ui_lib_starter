@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "tsc && next dev",
     "build": "next build",
+    "reg-build": "tsx ./scripts/build-registry.ts",
     "start": "next start",
     "lint": "next lint"
   },
