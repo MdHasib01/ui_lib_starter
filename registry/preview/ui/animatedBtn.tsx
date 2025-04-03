@@ -1,7 +1,7 @@
 'use client';
 
+import { AnimatedButton } from '@/registry/ui/animated-button';
 import { LogInIcon } from 'lucide-react';
-import { AnimatedButton } from './animated-button';
 
 const AnimatedButtonPreview = () => {
   return (

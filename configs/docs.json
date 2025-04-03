@@ -62,7 +62,7 @@
         },
         {
           "componentName": "creative-button-3",
-          "filesrc": "ui/animatedBtn.tsx",
+          "filesrc": "preview/ui/animatedBtn.tsx",
           "iframeSrc": "live-components/creative-button-3",
           "parentlink": "buttons",
           "parentName": "Buttons"
